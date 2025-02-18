@@ -17,7 +17,7 @@
 
 
 
-<h2> 📌 Funcionalidades </h2>
+<h2 id="funcionalidades"> 📌 Funcionalidades </h2>
 
 Adicionar amigos a uma lista.
 
@@ -25,7 +25,7 @@ Exibir os amigos adicionados.
 
 Sortear um amigo secreto aleatoriamente.
 
-<h2> 🚀 Como Usar </h2>
+<h2 id="como-usar"> 🚀 Como Usar </h2>
 
 Digite o nome do amigo no campo de entrada.
 
@@ -33,7 +33,7 @@ Clique no botão Adicionar Amigo para inseri-lo na lista.
 
 Clique no botão Sortear Amigo para exibir um nome aleatório da lista.
 
-<h2> 📷 Exemplo de Uso </h2>
+<h2 id="exemplo-de-uso"> 📷 Exemplo de Uso </h2>
 <h2> Digite os nomes e clique em "Adicionar":</h2>
 
 ![EXEMPLO1](https://github.com/user-attachments/assets/984f27f6-054f-4430-8297-4ab7db683946)
@@ -44,7 +44,7 @@ Clique no botão Sortear Amigo para exibir um nome aleatório da lista.
 ![EXEMPLO3](https://github.com/user-attachments/assets/e4754d44-6230-4348-9876-2a1764861759)
 
 
-<h2> 🛠️ Tecnologias Utilizadas</h2>
+<h2 id="tecnologias-utilizadas"> 🛠️ Tecnologias Utilizadas</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
