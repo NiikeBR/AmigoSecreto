@@ -7,13 +7,13 @@
 
 📖 Índice
 
-1. [Funcionalidades](#-funcionalidades)
+1. [Funcionalidades](#funcionalidades)
 
-2. [Como Usar](#-como-usar)
+2. [Como Usar](#como-usar)
 
-3. [Exemplo de Uso](#-exemplo-de-uso)
+3. [Exemplo de Uso](#exemplo-de-uso)
 
-4. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 
 
